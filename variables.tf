@@ -1,2 +1,2 @@
  variable "cluster_name" {}
- variable "project_id" {}
+ variable "gcp_project_id" {}
