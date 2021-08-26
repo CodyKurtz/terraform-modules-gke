@@ -1,5 +1,5 @@
 module "gke1" {
-    source  = "tfe.address/gke/google"
+    source  = "tfe.ckurtz.3607853379.workshops.arctiq.ca/arctiq/gke/google"
     version = "1.0.0"
 
     # insert required variables here
